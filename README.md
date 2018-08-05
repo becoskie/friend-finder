@@ -8,7 +8,7 @@ Need a friend right now? Instant. You get what you get. No do-overs. When you're
 
 ## Usage
 
-![screenshot](assets/find_friend.png)
+![screenshot](assets/friend_find.png)
 
 Go to the homepage and fill out the state-of-the-art survey. After submitting the survey, your new best friend forever will pop up. Also there is an API so you can see who we didn't pick for you.
 
